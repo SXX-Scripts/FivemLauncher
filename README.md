@@ -3,11 +3,11 @@
 <h1 align="center">FiveM Launcher</h1>
 
 <em><h5 align="center">(Electron Launcher)</h5></em>
- 
-![Screenshot 1](https://i.ibb.co/VjkhW7d/main-image.jpg)
-![Screenshot 2](https://i.ibb.co/sj5jzk6/fivem-settings-image.jpg)
-![Screenshot 3](https://i.ibb.co/0y9hwdy/launcher-settings-image.jpg)
-![Screenshot 4](https://i.ibb.co/qycnXZ6/launcher-update-image.jpg)
+
+<p align="center"><img src="https://i.ibb.co/VjkhW7d/main-image.jpg" alt="cyberlox.eu image1"></p>
+<p align="center"><img src="https://i.ibb.co/sj5jzk6/fivem-settings-image.jpg" alt="cyberlox.eu image2"></p>
+<p align="center"><img src="https://i.ibb.co/0y9hwdy/launcher-settings-image.jpg" alt="cyberlox.eu image3"></p>
+<p align="center"><img src="https://i.ibb.co/qycnXZ6/launcher-update-image.jpg" alt="cyberlox.eu image4"></p>
 
 ## Merkmale
 
