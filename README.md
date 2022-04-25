@@ -1,2 +1,43 @@
-# FivemLauncher
-FiveM Server Launcher
+<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="cyberlox.eu softworks"></p>
+
+<h1 align="center">FiveM Launcher</h1>
+
+<em><h5 align="center">(Electron Launcher)</h5></em>
+ 
+![Screenshot 1](https://i.ibb.co/VjkhW7d/main-image.jpg)
+![Screenshot 2](https://i.ibb.co/sj5jzk6/fivem-settings-image.jpg)
+![Screenshot 3](https://i.ibb.co/0y9hwdy/launcher-settings-image.jpg)
+![Screenshot 4](https://i.ibb.co/qycnXZ6/launcher-update-image.jpg)
+
+## Merkmale
+
+* 📂 Management.
+  * Erhalten Sie Client-Updates, sobald wir sie veröffentlichen.
+  * Dateien werden vor dem Start validiert. Beschädigte oder falsche Dateien werden erneut heruntergeladen.
+* 📰 Der Newsfeed ist nativ in den Launcher integriert.
+* ⚙️ Intuitive Einstellungsverwaltung.
+* Unterstützt alle FiveM Server.
+  * Wechseln Sie mühelos zwischen Serverkonfigurationen.
+  * Zeigen Sie die Spieleranzahl des Servers an.
+* Automatische Updates. Richtig, der Launcher aktualisiert sich selbst.
+*  Zeigen Sie den Status der Dienste von FiveM an.
+
+**Unterstützte Plattformen**
+
+| Plattform | Datei |
+| -------- | ---- |
+| Windows x64 | `FiveM-Launcher-setup-VERSION.exe` |
+| macOS x64 | `FiveM-Launcher-setup-VERSION-x64.dmg` |
+| macOS arm64 | `FiveM-Launcher-setup-VERSION-arm64.dmg` |
+| Linux x64 | `FiveM-Launcher-setup-VERSION.AppImage` |
+
+
+Der beste Weg, die Entwickler zu kontaktieren, ist auf Discord.
+
+[![discord](https://discordapp.com/api/guilds/895410720571797605/embed.png?style=banner3)][discord]
+
+---
+
+### Wir sehen uns im Spiel.
+
+[discord]: https://discord.gg/KBTKwWH3NG 'Discord'
