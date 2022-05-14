@@ -1,4 +1,4 @@
-<p align="center"><img src="./app/assets/images/SealCircle.png" width="150px" height="150px" alt="cyberlox.eu softworks"></p>
+<p align="center"><img src="https://silence-dev.de/img/logo_silence_dev.png" width="150px" height="150px" alt="cyberlox.eu softworks"></p>
 
 <h1 align="center">FiveM Launcher</h1>
 
