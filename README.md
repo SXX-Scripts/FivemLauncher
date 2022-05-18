@@ -1,7 +1,7 @@
 <p align="center"><img src="https://silence-dev.de/img/logo_silence_dev.png" width="150px" height="150px" alt="cyberlox.eu softworks"></p>
 
 <h1 align="center">FiveM Launcher</h1>
-<h2 align="center">by Silence-Dev.de</h2>
+<h5 align="center">by Silence-Dev.de</h5>
 
 <em><h5 align="center">(Electron Launcher)</h5></em>
 
