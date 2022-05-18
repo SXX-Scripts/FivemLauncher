@@ -1,9 +1,9 @@
 <p align="center"><img src="https://silence-dev.de/img/logo_silence_dev.png" width="150px" height="150px" alt="cyberlox.eu softworks"></p>
 
 <h1 align="center">FiveM Launcher</h1>
-<h5 align="center">by Silence-Dev.de</h5>
 
 <em><h5 align="center">(Electron Launcher)</h5></em>
+<h5 align="center">by Silence-Dev.de</h5>
 
 <p align="center"><img src="https://i.ibb.co/VjkhW7d/main-image.jpg" alt="cyberlox.eu image1"></p>
 <p align="center"><img src="https://i.ibb.co/sj5jzk6/fivem-settings-image.jpg" alt="cyberlox.eu image2"></p>
